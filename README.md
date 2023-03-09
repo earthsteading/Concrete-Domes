@@ -1,5 +1,5 @@
 # Concrete-Domes
-This is a series of checklists for surrveying and inspecting cement steel reinforced domes and arches for use in small buildings, primarily domestic homes but applicable to commerical classes of buildings as well.  Ferrocement has also been used for making boats and bridges
+This is a series of checklists for surrveying and inspecting cement steel reinforced domes and arches for use in small buildings, primarily domestic homes but applicable to commerical classes of buildings as well.  Ferrocement has also been used for making boats, bridges, swimming pools, silos, wind tunnels and numerous other watertight rigid structures.
 
 ## Definitions, standards, legislation and history
 The largest and longest standing (unreinfroced) dome is the Pantheon 'rotunda' in Rome, which weighs 4535 tonnes (just short on 1m pounds or 5m kilograms) and has a diameter of 43.3 meters.  The weight of the dome is supported by 8 arches (a barrel vault) which are 6.4 metres thick at the base and decrease in weight to the apex where they are 1.2 metres thick.  It is estimated that the concrete has a compressive strength of 20MPa, with varying aggregate used throughout to decrease load leading to the oculus.
@@ -41,6 +41,15 @@ The following checklist is required for drawings and specifications for reinforc
   - [ ] Class of formwork as per AS3610
   - [ ] Minimum period of time after placing of concrete before stripping of forms and removal of shores
   - [ ] Location and details of planned construction and movement joints, and the method of their protection.
+
+The following checklist is for preparation of ferrocement:
+  - [ ] Sand/Cement ratio kept 1.5 to 2.5 and Water/Cement ratio kept 0.35 to 0.60.
+  - [ ] Thickness – 10 mm to 60 mm 
+  - [ ] Steel 5 to 8% 
+  - [ ] Steel cover 1.5 mm to 5 mm 
+  - [ ] Ultimate tensile strength 34.5 N/mm2 
+  - [ ] Allowable tensile strength 10.0 N/mm2 
+  - [ ] Compressive strength 27.5 to  60 N/mm2
 
 The following checklist is requirements for placement reinforcement tendons prior to pouring concrete:
  - [ ] Axis distance of longitudal bars to surface exposure to resist fire: ![image](https://user-images.githubusercontent.com/146181/224170036-48993bce-c36e-4172-97b1-9fda1658aadf.png)
