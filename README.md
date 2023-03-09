@@ -1,6 +1,5 @@
 # Concrete-Domes
-This is a series of checklists for surrveying and inspecting concrete steel reinforced domes and arches for use in small buildings, primarily domestic homes but applicable to commerical classes of buildings as well.
-
+This is a series of checklists for surrveying and inspecting cement steel reinforced domes and arches for use in small buildings, primarily domestic homes but applicable to commerical classes of buildings as well.  Ferrocement has also been used for making boats and bridges
 
 ## Definitions, standards, legislation and history
 The largest and longest standing (unreinfroced) dome is the Pantheon 'rotunda' in Rome, which weighs 4535 tonnes (just short on 1m pounds or 5m kilograms) and has a diameter of 43.3 meters.  The weight of the dome is supported by 8 arches (a barrel vault) which are 6.4 metres thick at the base and decrease in weight to the apex where they are 1.2 metres thick.  It is estimated that the concrete has a compressive strength of 20MPa, with varying aggregate used throughout to decrease load leading to the oculus.
@@ -9,7 +8,9 @@ The largest and longest standing (unreinfroced) dome is the Pantheon 'rotunda' i
 ![image](https://user-images.githubusercontent.com/146181/224157822-0724342b-673c-4ae6-b264-9fcd0cad1609.png)
 ![image](https://user-images.githubusercontent.com/146181/224161642-c5453982-8023-4217-a13d-6ba6d4f9fc5c.png)
   - [ ] dome: large hemispherical, segmental or pointed vault erected over a circular or polygonal base; generally over the crossing of a church.
-  - [ ] concrete: cylinder compressive strength of 20-120 MPa within 28 days, with a saturated surface dry density between 1800-2800 kgm3.
+  - [ ] cement: as defined by AS3972 or AS1316
+  - [ ] ferrocement (aka armoured cement "ciment arme": cement applied over an armature of metal mesh and steel tendons (rebar), using a sand:cement ratio of 3:1.  Ferrocement originated in the 1840s in France and is the precursor to reinforced concrete.
+  - [ ] reinforced concrete: design of concrete and steel to act together to resist forces with concrete compressive strength of 20-120 MPa within 28 days (with a saturated surface dry density between 1800-2800 kgm3) and the steel tendons taking all tensile stresses.
   - [ ] ductility class: designation relating to the ductility of reinforcement (‘L’ designates ‘low’, ‘N’ designates ‘normal’, ‘E’ designates ‘earthquake’)
   - [ ] fitment: reinforced steel grades (between 500-800 MPa) used to reinforce longitudal spans (carry shear, torsion and diagonal tension), or provide confinement to the core concrete.
   - [ ] AS 3600 (2018) Concrete Structures
@@ -23,7 +24,7 @@ The largest and longest standing (unreinfroced) dome is the Pantheon 'rotunda' i
   - [ ] AS 1012 part 10 for indirect tensile strength tests
 
 # Checklists
-The following checklist is required for drawings and specifications for concrete structures:
+The following checklist is required for drawings and specifications for reinforced concrete structures:
   - [ ] Reference number, date of issue and applicable design Standards
   - [ ] Imposed action (live loads) used in designs, e.g. direct (load) action and indirect action (internal deforemation constraints resulting from bending/torsion stress)
   - [ ] Determination of earthquake design category
