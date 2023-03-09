@@ -1,5 +1,5 @@
 # Concrete-Domes
-This is a series of checklists for surrveying and inspecting concrete steel reinforced domes and arches for use in buildings, primarily domestic homes but applicable to commerical classes of buildings as well.
+This is a series of checklists for surrveying and inspecting concrete steel reinforced domes and arches for use in small buildings, primarily domestic homes but applicable to commerical classes of buildings as well.
 
 
 ## Definitions, standards, legislation and history
@@ -43,9 +43,18 @@ The following checklist is required for drawings and specifications for concrete
 
 The following checklist is requirements for placement reinforcement tendons prior to pouring concrete:
  - [ ] Axis distance of longitudal bars to surface exposure to resist fire: ![image](https://user-images.githubusercontent.com/146181/224170036-48993bce-c36e-4172-97b1-9fda1658aadf.png)
- - [ ] Fire Resistance Periods (FRPs) for structural adequacy of columns: ![image](https://user-images.githubusercontent.com/146181/224170212-89683b74-c97b-41bf-9de0-b0e5b3d80bfc.png) ![image](https://user-images.githubusercontent.com/146181/224170348-7b139368-0267-4e1d-9d93-e152c428b97e.png) ![image](https://user-images.githubusercontent.com/146181/224170542-732afd5d-0b45-4078-8e2f-dfc1c257ac86.png)
+ - [ ] Fire Resistance Periods (FRPs) for structural adequacy for beams and columns: ![image](https://user-images.githubusercontent.com/146181/224170212-89683b74-c97b-41bf-9de0-b0e5b3d80bfc.png) ![image](https://user-images.githubusercontent.com/146181/224170348-7b139368-0267-4e1d-9d93-e152c428b97e.png) ![image](https://user-images.githubusercontent.com/146181/224170542-732afd5d-0b45-4078-8e2f-dfc1c257ac86.png)
 
- - [ ] 
+The following checklist is for strut (compression) and tie (tension) load-resisting structural systems 
+ - [ ] Struts shall be of prismatic, fan or bottle shape 
+ - [ ] Design strength of struts measured against Class 7.2.2. (AS3600) ![image](https://user-images.githubusercontent.com/146181/224172751-5dd35a71-f5ee-41da-8ad1-4b2b2fcca50f.png)
+ - [ ] Lateral reinforcement of longitudal bars: ![image](https://user-images.githubusercontent.com/146181/224173962-b22c5cd6-bd9c-4e71-aba1-5222bc571f4a.png)
+ - [ ] Type I - lorad carried to supports directly by major struts: ![image](https://user-images.githubusercontent.com/146181/224174819-754a8a9b-6c41-4b48-b220-38be7c963b68.png)
+ - [ ] Type II - load is taken to supports by a combination of major and secondary struts.  Adequetly anchored hanger reinforcement is required to return the vertical component of forces  developed in the secondary struts to the top of the member: ![image](https://user-images.githubusercontent.com/146181/224174855-5bdca258-7fe4-45b9-ad26-947306b51cc9.png)
+ - [ ] Type III - load is carried to the supports via a series of major struts with anchored hanger reinforcement used to return strut forces to the top of the member: ![image](https://user-images.githubusercontent.com/146181/224174888-c842b9e8-d728-4bcc-ae36-ced60b151fbf.png)
+
+
+
 
 
 
